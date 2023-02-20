@@ -4,6 +4,14 @@
 [week-1](https://www.youtube.com/watch?v=SG8blanhAOg&t=4052s)
 
 
+## What I learnt 
+
+1. Used Lucid in designing architectural view of the app
+2. Created a MFA for the account 
+3. Created a spent budget for the Account
+4. Read books and blogs on Cloud native approach
+
+
 [Lucid Daigram](https://lucid.app/lucidchart/d9ddb44d-e4c7-40fb-aa1a-9bf752b571ae/edit?invitationId=inv_023e228a-72d0-4c3a-b246-175f0c300828&page=0_0#)
 
 ![CloudBootCamp-Crud-app](https://user-images.githubusercontent.com/29310552/218583938-4aa638e7-df2d-404d-9a76-f04e721825e3.png)
