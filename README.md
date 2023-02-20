@@ -34,6 +34,13 @@ The `/journal` directory contains
 
 ### To run environmental variable in gitop
 
+```
 gp env AWS_ACCESS_KEY_ID=""
 gp env AWS_SECRET_ACCESS_KEY=""
 gp env AWS_DEFAULT_REGION=""
+
+```
+
+You might experience permission issue go in to [gitpod](https://gitpod.io/user/integrations) and tick on the right permission
+
+image.png

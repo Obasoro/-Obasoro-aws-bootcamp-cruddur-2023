@@ -78,6 +78,8 @@ Using `aws --cli-auto-prompt` to auto prompt `cli` command on aws.
 
 [obasoro](https://github.com/Obasoro/aws-bootcamp-cruddur-2024/blob/week-0/journal/week0.md)
 
+## Create Alarm
+
 
 
 
