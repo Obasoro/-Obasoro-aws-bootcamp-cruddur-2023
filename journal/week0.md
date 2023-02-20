@@ -71,6 +71,12 @@ Open a support ticket and request a service limit
 # Created an MFA
 ![image](https://user-images.githubusercontent.com/29310552/219982419-c6e5fc1f-26da-4004-9d27-c237f9397412.png)
 
+# Created a Gitops workspace
+![image](https://user-images.githubusercontent.com/29310552/220203662-ff84b0e9-cd3f-462f-9e10-f1dd9f42edb8.png)
+
+Using `aws --cli-auto-prompt` to auto prompt `cli` command 0n aws
+
+
 
 
 
