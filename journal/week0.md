@@ -74,7 +74,11 @@ Open a support ticket and request a service limit
 # Created a Gitops workspace
 ![image](https://user-images.githubusercontent.com/29310552/220203662-ff84b0e9-cd3f-462f-9e10-f1dd9f42edb8.png)
 
-Using `aws --cli-auto-prompt` to auto prompt `cli` command 0n aws
+Using `aws --cli-auto-prompt` to auto prompt `cli` command on aws.
+
+[obasoro](https://github.com/Obasoro/aws-bootcamp-cruddur-2024/blob/week-0/journal/week0.md)
+
+
 
 
 
