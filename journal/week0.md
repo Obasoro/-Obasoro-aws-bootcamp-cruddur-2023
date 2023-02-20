@@ -16,7 +16,7 @@
 
 ![CloudBootCamp-Crud-app](https://user-images.githubusercontent.com/29310552/218583938-4aa638e7-df2d-404d-9a76-f04e721825e3.png)
 
-Week 0 — Bootcamp Overview and Introduction to Cloud Spend
+Week 0 — Bootcamp Overview and Introduction to Cloud
 
 ## Technical Tasks
 In the class, we are going to lay out the foundation for the entire bootcamp by:
@@ -75,6 +75,8 @@ Open a support ticket and request a service limit
 ![image](https://user-images.githubusercontent.com/29310552/220203662-ff84b0e9-cd3f-462f-9e10-f1dd9f42edb8.png)
 
 Using `aws --cli-auto-prompt` to auto prompt `cli` command 0n aws
+
+
 
 
 
