@@ -1,13 +1,13 @@
 aws budgets create-budget \
-    --account-id $Account_ID \
-    --budget file://budget.json \
-    --notifications-with-subscribers file://budget-notification.json
+    --account-id $AWS_Account_ID \
+    --budget file://awsfolder/budget.json \
+    --notifications-with-subscribers file://awsfolder/budget-notification.json
 
     export AWS_Account_ID=
     aws sts get-caller-identity --query Account --output text
 
     export AWS_Account_ID=$(aws sts get-caller-identity --query Account --output text)
 
-    gp env AWS_Account_ID=""
+    gp env AWS_Account_ID="567191237150"
 
     `aws sns create-topic --name billing-alarm``

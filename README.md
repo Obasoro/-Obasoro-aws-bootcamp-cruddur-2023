@@ -35,9 +35,9 @@ The `/journal` directory contains
 ### To run environmental variable in gitop
 
 ```
-gp env AWS_ACCESS_KEY_ID=""
-gp env AWS_SECRET_ACCESS_KEY=""
-gp env AWS_DEFAULT_REGION=""
+gp env AWS_ACCESS_KEY_ID="AKIAYIDZ3OIPGE5JAZPS"
+gp env AWS_SECRET_ACCESS_KEY="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"
+gp env AWS_DEFAULT_REGION="us-east-1"
 
 ```
 
