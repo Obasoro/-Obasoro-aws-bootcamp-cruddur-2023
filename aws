@@ -3,6 +3,11 @@ aws budgets create-budget \
     --budget file://awsfolder/budget.json \
     --notifications-with-subscribers file://awsfolder/budget-notification.json
 
+aws sns subscribe \
+    --topic-arn="arn:aws:sns:us-east-1:567191237150:Bootcamp" \
+    --protocol=email \
+    --notification-endpoint=obasorokunle@gmail.com
+
     export AWS_Account_ID=
     aws sts get-caller-identity --query Account --output text
 
