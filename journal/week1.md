@@ -298,3 +298,15 @@ volumes:
   db:
     driver: local
 ```
+
+## Activity and Result
+
+## Frontend 
+<img width="1420" alt="Screenshot 2023-02-21 at 19 12 43" src="https://user-images.githubusercontent.com/29310552/220495452-324cf597-ab42-4f52-ab13-b90dc42a522f.png">
+
+## Backend-Flask
+
+<img width="1425" alt="Screenshot 2023-02-21 at 19 15 33" src="https://user-images.githubusercontent.com/29310552/220496004-a640b125-1770-4509-9e6c-cd177637abdc.png">
+
+
+
