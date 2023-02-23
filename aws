@@ -13,6 +13,6 @@ aws sns subscribe \
 
     export AWS_Account_ID=$(aws sts get-caller-identity --query Account --output text)
 
-    gp env AWS_Account_ID="567191237150"
+    gp env AWS_Account_ID="account_ID"
 
     `aws sns create-topic --name billing-alarm``

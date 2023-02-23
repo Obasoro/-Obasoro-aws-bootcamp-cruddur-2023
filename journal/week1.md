@@ -299,6 +299,7 @@ volumes:
     driver: local
 ```
 
+<<<<<<< HEAD
 ## Activity and Result
 
 ## Frontend 
@@ -310,3 +311,10 @@ volumes:
 
 
 
+=======
+## 
+
+after running python3 -m flask run --host=0.0.0.0 --port=4567
+
+put `api/activities/home` at the end of the link
+>>>>>>> 9a3893a (update)
