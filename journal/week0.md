@@ -82,6 +82,20 @@ Using `aws --cli-auto-prompt` to auto prompt `cli` command on aws.
 
 ![image](https://user-images.githubusercontent.com/29310552/220230676-9ad104ff-9250-4818-bca0-8afa3c36a1b4.png)
 
+# Created Honeycomb account
+
+<img width="1433" alt="Screenshot 2023-02-24 at 20 49 35" src="https://user-images.githubusercontent.com/29310552/221332449-380ba207-0766-40c8-89dd-323a52a37410.png">
+
+## Created Rollar Account
+
+<img width="1421" alt="Screenshot 2023-02-24 at 20 51 40" src="https://user-images.githubusercontent.com/29310552/221332513-9e11d009-aabd-4342-a08a-08ae7b45f517.png">
+
+## Created EventBridge to hookup Health Dashboard to SNS and send notification when there is a service health issue
+
+<img width="1413" alt="Screenshot 2023-02-24 at 20 58 58" src="https://user-images.githubusercontent.com/29310552/221332761-4fd8f974-4af2-4712-bf52-3cbd13d9735d.png">
+
+
+
 
 
 
