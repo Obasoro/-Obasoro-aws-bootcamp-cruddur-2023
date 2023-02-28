@@ -318,3 +318,14 @@ after running python3 -m flask run --host=0.0.0.0 --port=4567
 
 put `api/activities/home` at the end of the link
 >>>>>>> 9a3893a (update)
+
+## Pushing the Docker Image to DockerHub
+***Frontend****
+
+<img width="1327" alt="Screenshot 2023-02-28 at 09 07 15" src="https://user-images.githubusercontent.com/29310552/221896040-f56114bd-1a24-4f40-9887-be8d28c9d4a8.png">
+
+****Backend***
+<img width="1334" alt="Screenshot 2023-02-28 at 09 01 55" src="https://user-images.githubusercontent.com/29310552/221896394-88549007-990b-4cdd-8e99-9a4602711bb4.png">
+
+
+
