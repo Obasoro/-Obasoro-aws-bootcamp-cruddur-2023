@@ -15,4 +15,7 @@ aws sns subscribe \
 
     gp env AWS_Account_ID="account_ID"
 
+    export HONEYCOMB_API_KEY=""
+
+
     `aws sns create-topic --name billing-alarm``
