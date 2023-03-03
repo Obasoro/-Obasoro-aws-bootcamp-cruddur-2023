@@ -47,3 +47,7 @@ image.png
  "TopicArn": "arn:aws:sns:us-east-1:567191237150:Bootcamp"
 
  Install nodejs on h
+
+ https://github.com/100DaysOfCloud/challenge-dynamodb-local
+
+ aws dynamodb scan --table-name Music --query "Items" --endpoint-url http://localhost:8000
