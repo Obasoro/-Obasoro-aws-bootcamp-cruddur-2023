@@ -301,3 +301,7 @@ def rollbar_test():
 
 # Week 2 — Distributed Tracing
 
+# Honeycomb UI
+
+![image](https://user-images.githubusercontent.com/29310552/222868841-fbf7f829-2c7a-4219-9b10-ce85779b7b16.png)
+
