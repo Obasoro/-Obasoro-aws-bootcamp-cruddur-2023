@@ -305,3 +305,8 @@ def rollbar_test():
 
 ![image](https://user-images.githubusercontent.com/29310552/222868841-fbf7f829-2c7a-4219-9b10-ce85779b7b16.png)
 
+# X-ray AWS Tracing
+
+![image](https://user-images.githubusercontent.com/29310552/223392548-8f7b794e-7cc9-42c6-81a8-97474538d8f7.png)
+
+
