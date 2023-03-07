@@ -20,5 +20,4 @@ aws sns subscribe \
 
     `aws sns create-topic --name billing-alarm`
 
-    export ROLLBAR_ACCESS_TOKEN="75d410b02f59491890d6730b29e601d6"
     gp env ROLLBAR_ACCESS_TOKEN=${ROLLBAR_ACCESS_TOKEN}

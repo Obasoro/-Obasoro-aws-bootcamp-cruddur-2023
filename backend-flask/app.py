@@ -23,18 +23,18 @@ from services.show_activity import *
 
 # Cloudwatch logs
 
-# import watchtower
-# import logging
-# from time import strftime
+import watchtower
+import logging
+from time import strftime
 
-# Configuring Logger to Use CloudWatch
-# LOGGER = logging.getLogger(__name__)
-# LOGGER.setLevel(logging.DEBUG)
-# console_handler = logging.StreamHandler()
-# cw_handler = watchtower.CloudWatchLogHandler(log_group='cruddur')
-# LOGGER.addHandler(console_handler)
-# LOGGER.addHandler(cw_handler)
-# LOGGER.info("test log")
+#Configuring Logger to Use CloudWatch
+LOGGER = logging.getLogger(__name__)
+LOGGER.setLevel(logging.DEBUG)
+console_handler = logging.StreamHandler()
+cw_handler = watchtower.CloudWatchLogHandler(log_group='cruddur')
+LOGGER.addHandler(console_handler)
+LOGGER.addHandler(cw_handler)
+LOGGER.info("test log")
 
 
 # HoneyComb ---------
@@ -67,7 +67,7 @@ tracer = trace.get_tracer(__name__)
 
 
 # X-Ray
-#app = Flask(__name__)
+app = Flask(__name__)
 #XRayMiddleware(app, xray_recorder)
 
 # HoneyComb ---------
