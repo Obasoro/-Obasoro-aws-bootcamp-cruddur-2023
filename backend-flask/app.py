@@ -47,7 +47,7 @@ from opentelemetry.sdk.trace.export import BatchSpanProcessor
 from opentelemetry.sdk.trace.export import ConsoleSpanExporter, SimpleSpanProcessor
 
 # Rollbar
-import os
+# import os
 import rollbar
 import rollbar.contrib.flask
 from flask import got_request_exception
