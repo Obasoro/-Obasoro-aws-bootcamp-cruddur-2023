@@ -309,4 +309,9 @@ def rollbar_test():
 
 ![image](https://user-images.githubusercontent.com/29310552/223392548-8f7b794e-7cc9-42c6-81a8-97474538d8f7.png)
 
+# Cloudwatch
+
+![image](https://user-images.githubusercontent.com/29310552/223416356-667aac1e-35d7-46c2-9bca-5b51e597990b.png)
+
+
 
