@@ -1,3 +1,4 @@
+import React, { Component } from 'react';
 import './DesktopNavigation.css';
 import {ReactComponent as Logo} from './svg/logo.svg';
 import DesktopNavigationLink from '../components/DesktopNavigationLink';
@@ -31,7 +32,7 @@ export default function DesktopNavigation(props) {
       active={props.active} />
   }
 
-  return (
+   return (
     <nav>
       <Logo className='logo' />
       <DesktopNavigationLink url="/" 
