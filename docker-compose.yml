@@ -34,8 +34,8 @@ services:
       AWS_REGION: "us-east-1"
       REACT_APP_AWS_PROJECT_REGION: "${AWS_DEFAULT_REGION}"
       REACT_APP_AWS_COGNITO_REGION: "${AWS_DEFAULT_REGION}"
-      REACT_APP_AWS_USER_POOLS_ID: "us-east-1_0NrMkb6hT"
-      REACT_APP_CLIENT_ID: "2jr9ompahllbun457vb31dnqr6"
+      REACT_APP_AWS_USER_POOLS_ID: "us-east-1_vccVWcM1E"
+      REACT_APP_CLIENT_ID: "7jec097j8dnu16aqielu1962q0"
     command:
       - "xray -o -b xray-daemon:2000"
     ports:
