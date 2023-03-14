@@ -3,12 +3,19 @@ import React from "react";
 import {ReactComponent as Logo} from '../components/svg/logo.svg';
 import { Link } from "react-router-dom";
 
+
+
 // [TODO] Authenication
 import { Auth } from 'aws-amplify';
+Auth.configure ({ 
+  region: "us-east-1",
+  userPoolId: "us-east-1_vccVWcM1E",
+  userPoolWebClientId: "7jec097j8dnu16aqielu1962q0", 
+});
 
 export default function SignupPage() {
 
-  // Username is Eamil
+  // Username is Email
   const [name, setName] = React.useState('');
   const [email, setEmail] = React.useState('');
   const [username, setUsername] = React.useState('');
