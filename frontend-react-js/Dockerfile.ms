@@ -1,4 +1,4 @@
-FROM node:16.18 as builder
+FROM node:16.19.1 as builder
 
 WORKDIR /frontend-react-js
 
