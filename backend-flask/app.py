@@ -73,7 +73,7 @@ tracer = trace.get_tracer(__name__)
 app = Flask(__name__)
 XRayMiddleware(app, xray_recorder)
 
-cognitio_jwt = CognitoTokenVerification
+#cognitio_jwt = CognitoTokenVerification
 
 # AWS Cognito
 cognito_jwt_token = CognitoJwtToken(
