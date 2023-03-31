@@ -357,8 +357,8 @@ aws rds create-db-instance \
   --db-instance-class db.t3.micro \
   --engine postgres \
   --engine-version  14.6 \
-  --master-username Bootcamp \
-  --master-user-password Bootcamp12345 \
+  --master-username bootcamp \
+  --master-user-password bootcamp12345 \
   --allocated-storage 20 \
   --availability-zone us-east-1a \
   --backup-retention-period 0 \
