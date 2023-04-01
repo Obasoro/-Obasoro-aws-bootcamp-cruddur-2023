@@ -533,3 +533,11 @@ Follow the instructions on https://github.com/AbhimanyuHK/aws-psycopg2 to compil
 ## Add the function to Cognito 
 
 Under the user pool properties add the function as a `Post Confirmation` lambda trigger.
+
+#### WORK-
+```
+export CONNECTION_URL=“postgresql://postgres:password@localhost:5432/cruddur”
+gp env CONNECTION_URL=“postgresql://postgres:password@localhost:5432/cruddur”
+psql $CONNECTION_URL
+
+```
