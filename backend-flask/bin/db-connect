@@ -6,6 +6,6 @@ else
   URL=$CONNECTION_URL
 fi
 
-#psql $URL
+psql $URL
 
-psql $PROD_CONNECTION_URL
+#psql $PROD_CONNECTION_URL
