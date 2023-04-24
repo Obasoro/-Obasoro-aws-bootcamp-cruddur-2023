@@ -8,4 +8,4 @@ fi
 
 psql $URL
 
-psql $PROD_CONNECTION_URL
+#psql $PROD_CONNECTION_URL
