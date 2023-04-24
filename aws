@@ -33,3 +33,5 @@ aws sns subscribe \
     `aws cognito-idp change-password --previous-password Koncept1! --proposed-password Gbenga1! --access-token`
 
     aws cognito-idp admin-set-user-password --username obasorokunle --password Koncept1! --user-pool-id us-east-1_0NrMkb6hT --permanent
+
+    export CONNECTION_URL=“postgresql://postgres:password@localhost:5432/{database_name}”
