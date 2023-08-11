@@ -18,7 +18,7 @@ RUN npm install
 RUN npm run build
 
 # Stage 2: Run
-FROM node:16.19.1-alpine
+FROM node:16.20.2-alpine
 ENV PORT=3000
 WORKDIR /app
 COPY --from=build /app /app
